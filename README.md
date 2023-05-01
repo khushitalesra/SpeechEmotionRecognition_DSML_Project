@@ -1,8 +1,6 @@
-# SpeechEmotionRecognition_DSML_Project
+# Speech Emotion Recognition Project
 
-Speech Emotion Recognition Project
-
-we have proposed a model to recognize emotion from speech
+We have proposed a model to recognize emotion from speech
 which is in Hindi. The database for the speech emotion
 recognition system is the IIT (Kharagpur) Simulated Emotion
 Hindi Speech Corpus (IITKGP-SEHSC). Our approach uses
